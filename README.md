@@ -5,6 +5,7 @@
 - 📚 I’m currently improving my skills with Java, Selenium and Cucumber 
 - 🎮 I love playing on the computer
 - 📺 I also enjoy watching sitcoms
+- 🤖 I am facinated about AI
 
 <hr>
  

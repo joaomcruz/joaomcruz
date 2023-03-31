@@ -76,7 +76,7 @@
    <br/>
   <img align="center" alt="jv-jenkins" width="50" src="https://user-images.githubusercontent.com/35797632/228700234-b8c1a83f-1a9b-4433-bbc5-598f316f9c82.png" />
   <img align="center" alt="jv-JIRA" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" />
-  <img align="center" alt="jv-SOAPUI" width="50" src="https://www.pngfind.com/pngs/m/657-6574406_soapui-soap-ui-logo-png-transparent-png.png>
+  <img align="center" alt="jv-SOAPUI" width="50" src="https://www.pngfind.com/pngs/m/657-6574406_soapui-soap-ui-logo-png-transparent-png.png">
   </div>
   </details>
  

@@ -2,7 +2,7 @@
  ## Hi there 👋 
   I'm João Victor, a brazilian IT enthusiast. I am a self-teacher, fast thinking and creative person,who is VERY passionate about IT. 5 years of experience as Quality Assurance Analyst provided me valuable skills during the complete development of the software life cycle and strong attention to details, ensuring issues are logged and resolved prior to launch on production.
   
-- 📚 I’m currently improving my skills with Java, Selenium and Cucumber 
+- 📚 I’m currently improving my skills with Java 
 - 🎮 I love playing on the computer
 - 📺 I also enjoy watching sitcoms
 - 🤖 I am facinated about AI

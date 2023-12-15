@@ -41,6 +41,7 @@
    <img align="center" alt="jv-selenium" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
   <img align="center" alt="jv-cypress" width="50" src="https://browserstack.wpenginepowered.com/wp-content/uploads/2022/06/cypress-bw.png"/>
   <img align="center" alt="jv-cucumber" width="75" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain-wordmark.svg" />
+  <img align="center" alt="jv-k6" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png"/>
    </div>
   </details>
   
@@ -76,6 +77,8 @@
   <img align="center" alt="jv-jenkins" width="50" src="https://user-images.githubusercontent.com/35797632/228700234-b8c1a83f-1a9b-4433-bbc5-598f316f9c82.png" />
   <img align="center" alt="jv-JIRA" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" />
   <img align="center" alt="jv-SOAPUI" width="65" src="https://www.unicodetechnologies.in/assets/wp-content/themes/newave-theme/images/soapUI.png">
+ <img align="center" alt="jv-POSTMAN" width="65" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+ 
   </div>
   </details>
  

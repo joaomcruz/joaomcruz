@@ -64,7 +64,7 @@
   <summary> Databases </summary>
    
    <br/>
-   <img align="center" alt="jv-db" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Kcp_aAsBhLobVnojlfORCkGzKt263Qyr5Q&usqp=CAU"/>
+  
    <img align="center" alt="jv-db1" width="80" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DpostgreSQL&psig=AOvVaw2dX6ACVOr6IKGbbiFXEPxh&ust=1704848476783000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKChxtONz4MDFQAAAAAdAAAAABAD](https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png)" />
   
    </div>

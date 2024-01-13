@@ -4,7 +4,7 @@
   
 - 🎮 I love playing on the computer
 - 📺 I also enjoy watching Animes.
-- 🤖 I am fascinated about AI
+- 👨🏽‍🍳 I love cooking 
 
 <hr>
  

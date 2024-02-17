@@ -10,7 +10,7 @@
  
 ### 📫  Where to find me ?
 <p> <font size="2" > <i>Click on the image to be redirected</i> </font> </p><br>
-  <a href="https://www.linkedin.com/in/joao-victor-machado/"> <img align="center" alt="jv-selenium" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/joaovictor-cruz"> <img align="center" alt="jv-selenium" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <hr>
 
 
